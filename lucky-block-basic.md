@@ -1,9 +1,7 @@
 # Lucky Block Mini Game
 
 ```template
-player.onChat("", function () {
-   
-})
+//
 ```
 
 ## Step 1
