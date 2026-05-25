@@ -12,8 +12,7 @@
         "README.md",
         "makecodemdlist/lucky-block-basic.md",
         "tutorial-info-cache.json",
-        "makecodemdlist/armor_stand.md",
-        "custom.ts"
+        "makecodemdlist/armor_stand.md"
     ],
     "testFiles": [
         "test.ts"
