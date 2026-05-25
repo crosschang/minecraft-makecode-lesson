@@ -1,10 +1,12 @@
-namespace PIS {
+//% color="#4CAF50" weight=100 block="내 수업 블록"
 
-    //% block="시험 시작하기"
+namespace Lesson {
 
-    export function startExam(): void {
+    //% block="인사하기"
 
-        player.say("시험을 시작합니다.")
+    export function hello(): void {
+
+        player.say("안녕하세요!")
 
     }
 
