@@ -10,9 +10,10 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "lucky-block-basic.md",
+        "makecodemdlist/lucky-block-basic.md",
         "tutorial-info-cache.json",
-        "test-readme.md"
+        "makecodemdlist/armor_stand.md",
+        "custon.ts"
     ],
     "testFiles": [
         "test.ts"
