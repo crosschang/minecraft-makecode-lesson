@@ -9,7 +9,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "lucky-block-basic.md"
+        "lucky-block-basic.md",
+        "_locales/ko-KR/lucky-block-basic.md"
     ],
     "testFiles": [
         "test.ts"
@@ -25,5 +26,5 @@
     "supportedTargets": [
         "minecraft"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
