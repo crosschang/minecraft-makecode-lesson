@@ -12,7 +12,8 @@
         "README.md",
         "makecodemdlist/lucky-block-basic.md",
         "tutorial-info-cache.json",
-        "makecodemdlist/armor_stand.md"
+        "makecodemdlist/armor_stand.md",
+        "makecodemdlist/aqua_hero.md"
     ],
     "testFiles": [
         "test.ts"
