@@ -16,7 +16,8 @@
         "makecodemdlist/aqua_hero.md",
         "makecodebasic/basic_1.md",
         "makecodemdlist/oak_tree_easy.md",
-        "makecodemdlist/oak_tree_middle.md"
+        "makecodemdlist/oak_tree_middle.md",
+        "makecodemdlist/color_chicken.md"
     ],
     "testFiles": [
         "test.ts"
