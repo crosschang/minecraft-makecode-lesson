@@ -1,4 +1,4 @@
-# 🌳 참나무 만들기 초급 | Build an Oak Tree: Beginner
+# 🌳 참나무 만들기 초급
 
 ```template
 player.onChat("1", function () {
@@ -149,31 +149,14 @@ Why do we place some logs again after filling the leaves?
 이제 아래쪽보다 작은 나뭇잎 층을 더해 나무 모양을 완성해 봅시다.  
 Now add smaller upper layers of leaves to complete the tree shape.
 
-이번 단계부터는 표를 보고 직접 **영역 채우기** 블록을 추가하세요.  
-From this step, use the table to add the **fill** blocks yourself.
+아래 표를 보고 직접 **영역 채우기** 블록 3개를 추가하세요.  
+Use the table below to add three **fill** blocks yourself.
 
 | 추가할 부분 / Part | 블록 / Block | 시작 위치 / From | 끝 위치 / To |
 |---|---|---|---|
 | 위쪽 잎 / Upper leaves | 참나무 잎 / Oak Leaves | `(1, 4, -1)` | `(3, 4, 1)` |
 | 꼭대기 가로 잎 / Top horizontal leaves | 참나무 잎 / Oak Leaves | `(1, 5, 0)` | `(3, 5, 0)` |
 | 꼭대기 세로 잎 / Top vertical leaves | 참나무 잎 / Oak Leaves | `(2, 5, -1)` | `(2, 5, 1)` |
-
-사용할 수 있는 블록 | Blocks you may use:
-
-```ghost
-blocks.fill(
-    LEAVES_OAK,
-    positions.add(
-        player.position(),
-        pos(0, 0, 0)
-    ),
-    positions.add(
-        player.position(),
-        pos(0, 0, 0)
-    ),
-    FillOperation.Replace
-)
-```
 
 ### 꼭대기 모양 | Shape of the Top
 
