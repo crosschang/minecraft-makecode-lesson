@@ -25,8 +25,8 @@ Start in a wide, flat area.
 
 ## Step 1. 시작하면 블록 1개 만들기 | Place One Block on Start
 
-먼저 코드가 시작되면 플레이어 근처에 잔디 블록 1개가 생기게 해 봅시다.  
-First, place one grass block when the code starts.
+먼저 코드가 시작되면 플레이어 근처에 블록 1개가 생기게 해 봅시다.  
+First, place one block when the code starts.
 
 위치는 `pos(0, 0, 0)`입니다.  
 The position is `pos(0, 0, 0)`.
@@ -37,15 +37,15 @@ blocks.place(GRASS, pos(0, 0, 0))
 
 ### 확인하기 | Check
 
-코드를 실행했을 때 잔디 블록 1개가 생기나요?  
-When you run the code, do you see one grass block?
+코드를 실행했을 때 블록 1개가 생기나요?  
+When you run the code, do you see one block?
 
 ---
 
 ## Step 2. 시작하면 블록 3개 만들기 | Place Three Blocks on Start
 
-이번에는 잔디 블록을 3개 놓아 봅시다.  
-Now place three grass blocks.
+이번에는 블록을 3개 놓아 봅시다.  
+Now place three blocks.
 
 좌표는 다음과 같습니다.  
 Use these positions:
@@ -77,8 +77,8 @@ Now it is your turn to practice.
 `z` 값을 음수로 바꾸면 반대 방향으로 블록이 놓입니다.  
 When the `z` value is negative, the blocks are placed in the opposite direction.
 
-아래 좌표를 사용해 잔디 블록 3개를 추가하세요.  
-Add three grass blocks using the positions below.
+아래 좌표를 사용해 블록 3개를 추가하세요.  
+Add three blocks using the positions below.
 
 | 순서 / Order | 위치 / Position |
 |---:|---|
