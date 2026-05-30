@@ -15,7 +15,8 @@
         "makecodemdlist/armor_stand.md",
         "makecodemdlist/aqua_hero.md",
         "makecodebasic/basic_1.md",
-        "makecodemdlist/oak_tree_easy.md"
+        "makecodemdlist/oak_tree_easy.md",
+        "makecodemdlist/oak_tree_middle.md"
     ],
     "testFiles": [
         "test.ts"
