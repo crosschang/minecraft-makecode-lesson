@@ -18,7 +18,7 @@
         "makecodemdlist/oak_tree_easy.md",
         "makecodemdlist/oak_tree_middle.md",
         "makecodemdlist/color_chicken.md",
-        "custom.ts"
+        "customblock/commandParts.ts"
     ],
     "testFiles": [
         "test.ts"
