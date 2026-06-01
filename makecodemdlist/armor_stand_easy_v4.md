@@ -364,3 +364,5 @@ Congratulations!
 
 이제 여러분은 커스텀 블록을 사용해 갑옷 거치대에 갑옷과 무기를 입힐 수 있습니다.  
 Now you can use custom blocks to equip armor and weapons on an armor stand.
+
+commandparts=github:crosschang/minecraft_makecode_lesson_extends#v0.0.5
