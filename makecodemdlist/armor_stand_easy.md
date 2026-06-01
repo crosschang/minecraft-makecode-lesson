@@ -35,12 +35,6 @@ Instead, we will connect command part blocks to build a command.
 
 ## 커스텀 블록 준비 | Custom Block Setup
 
-이 README를 사용하려면 프로젝트에 `custom.ts` 파일이 있어야 합니다.  
-To use this README, the project needs a `custom.ts` file.
-
-`custom.ts` 안에는 `commandParts` 커스텀 블록이 들어 있어야 합니다.  
-The `custom.ts` file should include the `commandParts` custom blocks.
-
 아래 블록들이 왼쪽 메뉴의 **CommandParts** 카테고리에 보이면 준비 완료입니다.  
 If you can see these blocks in the **CommandParts** category, you are ready.
 
