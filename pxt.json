@@ -13,13 +13,12 @@
         "README.md",
         "makecodemdlist/lucky-block-basic.md",
         "tutorial-info-cache.json",
-        "makecodemdlist/armor_stand_easy_v2.md",
+        "makecodemdlist/armor_stand_easy_v3.md",
         "makecodemdlist/aqua_hero.md",
         "makecodebasic/basic_first.md",
         "makecodemdlist/oak_tree_easy.md",
         "makecodemdlist/oak_tree_middle.md",
-        "makecodemdlist/color_chicken.md",
-        "customblock/commandParts.ts"
+        "makecodemdlist/color_chicken.md"
     ],
     "testFiles": [
         "test.ts"
