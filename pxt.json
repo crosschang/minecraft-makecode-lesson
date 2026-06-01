@@ -4,7 +4,8 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "builder": "*"
+        "builder": "*",
+        "commandparts" : "github:crosschang/minecraft_makecode_lesson_extends"
     },
     "files": [
         "main.blocks",
