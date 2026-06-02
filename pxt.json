@@ -18,7 +18,8 @@
         "makecodebasic/basic_first.md",
         "makecodemdlist/oak_tree_easy.md",
         "makecodemdlist/oak_tree_middle.md",
-        "makecodemdlist/color_chicken.md"
+        "makecodemdlist/color_chicken.md",
+        "makecodemdlist/composter_easy.md"
     ],
     "testFiles": [
         "test.ts"
