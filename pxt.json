@@ -19,7 +19,17 @@
         "makecodemdlist/oak_tree_easy.md",
         "makecodemdlist/oak_tree_middle.md",
         "makecodemdlist/color_chicken.md",
-        "makecodemdlist/composter_easy_v2.md"
+        "makecodemdlist/composter_easy_v2.md",
+        "makecodebasic/basic_1.md",
+        "makecodebasic/basic_2.md",
+        "makecodebasic/basic_3.md",
+        "makecodebasic/basic_4.md",
+        "makecodebasic/basic_5.md",
+        "makecodebasic/basic_6.md",
+        "makecodebasic/basic_7.md",
+        "makecodebasic/basic_8.md",
+        "makecodebasic/basic_rainbowroad.md",
+        "makecodebasic/basic_rainbowwool.md"
     ],
     "testFiles": [
         "test.ts"
