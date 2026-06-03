@@ -29,7 +29,8 @@
         "makecodebasic/basic_7.md",
         "makecodebasic/basic_8.md",
         "makecodebasic/basic_rainbowroad.md",
-        "makecodebasic/basic_rainbowwool.md"
+        "makecodebasic/basic_rainbowwool.md",
+        "makecodemdlist/composter_easy_v2_1.md"
     ],
     "testFiles": [
         "test.ts"
