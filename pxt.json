@@ -5,8 +5,7 @@
     "dependencies": {
         "core": "*",
         "builder": "*",
-        "commandparts": "github:crosschang/minecraft_makecode_lesson_extends#v0.0.5",
-        "blockcoding extends": "github:crosschang/minecraft_makecode_lesson_extends#v0.0.5"
+        "commandparts": "github:crosschang/minecraft_makecode_lesson_extends#v0.0.5"
     },
     "files": [
         "main.blocks",
