@@ -33,7 +33,8 @@
         "makecodebasic/basic_rainbowwool.md",
         "makecodemdlist/composter_easy_v2_1.md",
         "makecodebasic/copybasic_1.md",
-        "makecodemdlist/SC_earth_equator_prime_meridian.md"
+        "makecodemdlist/SC_earth_equator_prime_meridian.md",
+        "makecodemdlist/oak_farmland.md"
     ],
     "testFiles": [
         "test.ts"
