@@ -33,7 +33,8 @@
         "makecodemdlist/composter_easy_v2_1.md",
         "makecodebasic/copybasic_1.md",
         "makecodemdlist/SC_earth_equator_prime_meridian.md",
-        "makecodemdlist/oak_farmland.md"
+        "makecodemdlist/oak_farmland.md",
+        "makecodemdlist/jockey_KO.md"
     ],
     "testFiles": [
         "test.ts"
