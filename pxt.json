@@ -34,7 +34,8 @@
         "makecodebasic/copybasic_1.md",
         "makecodemdlist/SC_earth_equator_prime_meridian.md",
         "makecodemdlist/oak_farmland.md",
-        "makecodemdlist/jockey_KO.md"
+        "makecodemdlist/jockey_KO.md",
+        "makecodemdlist/jockey_EN.md"
     ],
     "testFiles": [
         "test.ts"
