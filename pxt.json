@@ -35,7 +35,8 @@
         "makecodemdlist/SC_earth_equator_prime_meridian.md",
         "makecodemdlist/oak_farmland.md",
         "makecodemdlist/jockey_KO.md",
-        "makecodemdlist/jockey_EN.md"
+        "makecodemdlist/jockey_EN.md",
+        "bryent/bryent5_6/bryentblock2_1.md"
     ],
     "testFiles": [
         "test.ts"
